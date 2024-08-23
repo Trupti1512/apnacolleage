@@ -1,2 +1,3 @@
 # apnacolleage
-new apnacollege
+new apnacollege \n
+this is our first git hub project
